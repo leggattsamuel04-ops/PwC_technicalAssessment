@@ -1,0 +1,1 @@
+This file gives a breakdown of the full case study: data analysis, modelling and dashboard navigation.
